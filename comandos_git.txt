@@ -1,0 +1,17 @@
+comando:
+		git init
+		git status
+		cls - limpar
+		git add . = enviar todo os arquivos
+		git commit (arquivo) -m "comentário" = salvar no repositório, ser comitado
+		git commit -m "comentário" = salvar todo os arquivos de uma vez
+		git remote add origin https://github.com/ericlysnunes/github.git = linkando pela primeira vez no GitHub
+		git branch -M main = adicionando na branch
+		git push -u origin main = enviar para o repositório no GitHub
+		git push = enviar os arquivos atualizados, já com repositório criado
+		git pull = receber os arquivos atualizados no GitHub para o PC
+		git clone (link) . = para clonar os arquivos que estão dentro do repositório do GitHub para o PC, sem o ponto final, copia o repositório (pasta e arquivos) para o PC
+		git log = informa todos os detalhes em ordem cronológica
+		git checkout = go back
+	u - untracked file
+	m - modified
