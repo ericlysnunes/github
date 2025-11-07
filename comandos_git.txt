@@ -12,6 +12,6 @@ comando:
 		git pull = receber os arquivos atualizados no GitHub para o PC
 		git clone (link) . = para clonar os arquivos que estão dentro do repositório do GitHub para o PC, sem o ponto final, copia o repositório (pasta e arquivos) para o PC
 		git log = informa todos os detalhes em ordem cronológica
-		git checkout = go back
+		git checkout (arquivo) = go back
 	u - untracked file
 	m - modified
